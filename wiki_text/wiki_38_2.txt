@@ -1,0 +1,20 @@
+Title: Proof by contradiction
+In logic, proof by contradiction is a form of proof that establishes the truth or the validity of a proposition, by showing that assuming the proposition to be false leads to a contradiction.
+Although it is quite freely used in mathematical proofs, not every school of mathematical thought accepts this kind of nonconstructive proof as universally valid.
+More broadly, proof by contradiction is any form of argument that establishes a statement by arriving at a contradiction, even when the initial assumption is not the negation of the statement to be proved. In this general sense, proof by contradiction is also known as indirect proof, proof by assuming the opposite, and reductio ad impossibile.
+A mathematical proof employing proof by contradiction usually proceeds as follows:
+An important special case is the existence proof by contradiction: in order to demonstrate that an object with a given property exists, we derive a contradiction from the assumption that all objects satisfy the negation of the property.
+Formalization.
+The principle may be formally expressed as the propositional formula "¬¬P ⇒ P", equivalently "(¬P ⇒ ⊥) ⇒ P", which reads: "If assuming "P" to be false implies falsehood, then "P" is true."
+In natural deduction the principle takes the form of the rule of inference
+which reads: "If formula_2 is proved, then formula_3 may be concluded."
+In sequent calculus the principle is expressed by the sequent
+which reads: "Hypotheses formula_5 "and" formula_2 entail the conclusion formula_3 "or" formula_8."
+Justification.
+In classical logic the principle may be justified by the examination of the truth table of the proposition "¬¬P ⇒ P", which demonstrates it to be a tautology:
+Another way to justify the principle is to derive it from the Law of the excluded middle, as follows. We assume "¬¬P" and seek to prove "P". By the law of excluded middle "P" either holds or it does not:
+In either case, we established "P". It turns out that, conversely, proof by contradiction can be used to derive the law of excluded middle.
+In classical sequent calculus LK proof by contradiction is derivable from the inference rules for negation:
+Relationship with other proof techniques.
+Refutation by contradiction.
+Proof by contradiction is similar to refutation by contradiction, also known as proof of negation, which states that "¬P" is proved as follows:

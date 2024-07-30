@@ -1,0 +1,20 @@
+Title: Tone (linguistics)
+Tone is the use of pitch in language to distinguish lexical or grammatical meaning—that is, to distinguish or to inflect words. All oral languages use pitch to express emotional and other para-linguistic information and to convey emphasis, contrast and other such features in what is called intonation, but not all languages use tones to distinguish words or their inflections, analogously to consonants and vowels. Languages that have this feature are called tonal languages; the distinctive tone patterns of such a language are sometimes called tonemes, by analogy with "phoneme". Tonal languages are common in East and Southeast Asia, Africa, the Americas and the Pacific.
+Tonal languages are different from pitch-accent languages in that tonal languages can have each syllable with an independent tone whilst pitch-accent languages may have one syllable in a word or morpheme that is more prominent than the others.
+Mechanics.
+Most languages use pitch as intonation to convey prosody and pragmatics, but this does not make them tonal languages. In tonal languages, each syllable has an inherent pitch contour, and thus minimal pairs (or larger minimal sets) exist between syllables with the same segmental features (consonants and vowels) but different tones. Vietnamese and Chinese have heavily studied tone systems, as well as amongst their various dialects.
+Below is a table of the six Vietnamese tones and their corresponding tone accent or diacritics:
+Mandarin Chinese, which has five tones, transcribed by letters with diacritics over vowels:
+These tones combine with a syllable such as "ma" to produce different words. A minimal set based on "ma" are, in pinyin transcription:
+These may be combined into a tongue-twister:
+See also One-syllable article.
+A well-known tongue-twister in Standard Thai is:
+A Vietnamese tongue twister:
+A Cantonese tongue twister:
+Tone is most frequently manifested on vowels, but in most tonal languages where voiced syllabic consonants occur they will bear tone as well. This is especially common with syllabic nasals, for example in many Bantu and Kru languages, but also occurs in Serbo-Croatian. It is also possible for lexically contrastive pitch (or tone) to span entire words or morphemes instead of manifesting on the syllable nucleus (vowels), which is the case in Punjabi.
+Tones can interact in complex ways through a process known as tone sandhi.
+Phonation.
+In a number of East Asian languages, tonal differences are closely intertwined with phonation differences. In Vietnamese, for example, the and tones are both high-rising but the former is distinguished by having glottalization in the middle. Similarly, the and tones are both low-falling, but the tone is shorter and pronounced with creaky voice at the end, while the tone is longer and often has breathy voice. In some languages, such as Burmese, pitch and phonation are so closely intertwined that the two are combined in a single phonological system, where neither can be considered without the other. The distinctions of such systems are termed "registers". The "tone register" here should not be confused with "register tone" described in the next section.
+Phonation type.
+Gordon and Ladefoged established a continuum of phonation, where several types can be identified.
+Relationship with tone.

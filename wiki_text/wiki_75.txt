@@ -1,0 +1,20 @@
+Title: Diffeomorphism
+In mathematics, a diffeomorphism is an isomorphism of differentiable manifolds. It is an invertible function that maps one differentiable manifold to another such that both the function and its inverse are continuously differentiable.
+Definition.
+Given two differentiable manifolds formula_1 and formula_2, a differentiable map formula_3 is a diffeomorphism if it is a bijection and its inverse formula_4 is differentiable as well. If these functions are formula_5 times continuously differentiable, formula_6 is called a formula_7-diffeomorphism.
+Two manifolds formula_1 and formula_2 are diffeomorphic (usually denoted formula_10) if there is a diffeomorphism formula_6 from formula_1 to formula_2. Two formula_7-differentiable manifolds are formula_7-diffeomorphic if there is an formula_16 times continuously differentiable bijective map between them whose inverse is also formula_5 times continuously differentiable.
+Diffeomorphisms of subsets of manifolds.
+Given a subset formula_18 of a manifold formula_1 and a subset formula_20 of a manifold formula_2, a function formula_22 is said to be smooth if for all formula_23 in formula_18 there is a neighborhood formula_25 of formula_23 and a smooth function formula_27 such that the restrictions agree: formula_28 (note that formula_29 is an extension of formula_6). The function formula_6 is said to be a diffeomorphism if it is bijective, smooth and its inverse is smooth.
+Local description.
+Testing whether a differentiable map is a diffeomorphism can be made locally under some mild restrictions. This is the Hadamard-Caccioppoli theorem:
+If formula_32, formula_33 are connected open subsets of formula_34 such that formula_33 is simply connected, a differentiable map formula_36 is a diffeomorphism if it is proper and if the differential formula_37 is bijective (and hence a linear isomorphism) at each point formula_38 in formula_32.
+Some remarks:
+It is essential for formula_33 to be simply connected for the function formula_6 to be globally invertible (under the sole condition that its derivative be a bijective map at each point). For example, consider the "realification" of the complex square function 
+Then formula_6 is surjective and it satisfies 
+Thus, though formula_45 is bijective at each point, formula_6 is not invertible because it fails to be injective (e.g. formula_47).
+Since the differential at a point (for a differentiable function) 
+is a linear map, it has a well-defined inverse if and only if formula_45 is a bijection. The matrix representation of formula_45 is the formula_51 matrix of first-order partial derivatives whose entry in the formula_52-th row and formula_53-th column is formula_54. This so-called Jacobian matrix is often used for explicit computations.
+Diffeomorphisms are necessarily between manifolds of the same dimension. Imagine formula_6 going from dimension formula_56 to dimension formula_57. If formula_58 then formula_45 could never be surjective, and if formula_60 then formula_45 could never be injective. In both cases, therefore, formula_45 fails to be a bijection.
+If formula_45 is a bijection at formula_38 then formula_6 is said to be a local diffeomorphism (since, by continuity, formula_66 will also be bijective for all formula_67 sufficiently close to formula_38).
+Given a smooth map from dimension formula_56 to dimension formula_57, if formula_71 (or, locally, formula_45) is surjective, formula_6 is said to be a submersion (or, locally, a "local submersion"); and if formula_71 (or, locally, formula_45) is injective, formula_6 is said to be an immersion (or, locally, a "local immersion").
+A differentiable bijection is "not" necessarily a diffeomorphism. formula_77, for example, is not a diffeomorphism from formula_78 to itself because its derivative vanishes at 0 (and hence its inverse is not differentiable at 0). This is an example of a homeomorphism that is not a diffeomorphism.

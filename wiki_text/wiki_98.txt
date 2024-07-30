@@ -1,0 +1,20 @@
+Title: Fundamental group
+In the mathematical field of algebraic topology, the fundamental group of a topological space is the group of the equivalence classes under homotopy of the loops contained in the space. It records information about the basic shape, or holes, of the topological space. The fundamental group is the first and simplest homotopy group. The fundamental group is a homotopy invariant—topological spaces that are homotopy equivalent (or the stronger case of homeomorphic) have isomorphic fundamental groups. The fundamental group of a topological space formula_1 is denoted by formula_2.
+Intuition.
+Start with a space (for example, a surface), and some point in it, and all the loops both starting and ending at this point—paths that start at this point, wander around and eventually return to the starting point. Two loops can be combined in an obvious way: travel along the first loop, then along the second.
+Two loops are considered equivalent if one can be deformed into the other without breaking. The set of all such loops with this method of combining and this equivalence between them is the fundamental group for that particular space.
+History.
+Henri Poincaré defined the fundamental group in 1895 in his paper "Analysis situs". The concept emerged in the theory of Riemann surfaces, in the work of Bernhard Riemann, Poincaré, and Felix Klein. It describes the monodromy properties of complex-valued functions, as well as providing a complete topological classification of closed surfaces.
+Definition.
+Throughout this article, "X" is a topological space. A typical example is a surface such as the one depicted at the right. Moreover, formula_3 is a point in "X" called the "base-point". (As is explained below, its role is rather auxiliary.) The idea of the definition of the homotopy group is to measure how many (broadly speaking) curves on "X" can be deformed into each other. The precise definition depends on the notion of the homotopy of loops, which is explained first.
+Homotopy of loops.
+Given a topological space "X", a "loop based at formula_3" is defined to be a continuous function (also known as a continuous map)
+such that the starting point formula_6 and the end point formula_7 are both equal to formula_3.
+A "homotopy" is a continuous interpolation between two loops. More precisely, a homotopy between two loops formula_9 (based at the same point formula_3) is a continuous map
+such that
+If such a homotopy "h" exists, formula_20 and formula_21 are said to be "homotopic". The relation "formula_20 is homotopic to formula_21" is an equivalence relation so that the set of equivalence classes can be considered:
+This set (with the group structure described below) is called the "fundamental group" of the topological space "X" at the base point formula_3. The purpose of considering the equivalence classes of loops up to homotopy, as opposed to the set of all loops (the so-called loop space of "X") is that the latter, while being useful for various purposes, is a rather big and unwieldy object. By contrast the above quotient is, in many cases, more manageable and computable.
+Group structure.
+By the above definition, formula_26 is just a set. It becomes a group (and therefore deserves the name fundamental "group") using the concatenation of loops. More precisely, given two loops formula_27, their product is defined as the loop
+Thus the loop formula_30 first follows the loop formula_31 with "twice the speed" and then follows formula_32 with "twice the speed".
+The product of two homotopy classes of loops formula_33 and formula_34 is then defined as formula_35. It can be shown that this product does not depend on the choice of representatives and therefore gives a well-defined operation on the set formula_26. This operation turns formula_26 into a group. Its neutral element is the constant loop, which stays at formula_3 for all times "t". The inverse of a (homotopy class of a) loop is the same loop, but traversed in the opposite direction. More formally,

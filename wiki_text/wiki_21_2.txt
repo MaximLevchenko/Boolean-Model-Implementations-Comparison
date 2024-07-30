@@ -1,0 +1,20 @@
+Title: Partially ordered set
+In mathematics, especially order theory, a partial order on a set is an arrangement such that, for certain pairs of elements, one precedes the other. The word "partial" is used to indicate that not every pair of elements needs to be comparable; that is, there may be pairs for which neither element precedes the other. Partial orders thus generalize total orders, in which every pair is comparable.
+Formally, a partial order is a homogeneous binary relation that is reflexive, antisymmetric, and transitive. A partially ordered set (poset for short) is an ordered pair formula_1 of a set formula_2 (called the "ground set" of formula_3) and a partial order formula_4 on formula_2. When the meaning is clear from context and there is no ambiguity about the partial order, the set formula_2 itself is sometimes called a poset.
+Partial order relations.
+The term "partial order" usually refers to the reflexive partial order relations, referred to in this article as "non-strict" partial orders. However some authors use the term for the other common type of partial order relations, the irreflexive partial order relations, also called strict partial orders. Strict and non-strict partial orders can be put into a one-to-one correspondence, so for every strict partial order there is a unique corresponding non-strict partial order, and vice versa.
+Partial orders.
+A reflexive, weak, or , commonly referred to simply as a partial order, is a homogeneous relation ≤ on a set formula_3 that is reflexive, antisymmetric, and transitive. That is, for all formula_8 it must satisfy:
+A non-strict partial order is also known as an antisymmetric preorder.
+Strict partial orders.
+An irreflexive, strong, or is a homogeneous relation &lt; on a set formula_3 that is irreflexive, asymmetric, and transitive; that is, it satisfies the following conditions for all formula_17
+Irreflexivity and transitivity together imply asymmetry. Also, asymmetry implies irreflexivity. In other words, a transitive relation is asymmetric if and only if it is irreflexive. So the definition is the same if it omits either irreflexivity or asymmetry (but not both).
+A strict partial order is also known as an asymmetric strict preorder.
+Correspondence of strict and non-strict partial order relations.
+Strict and non-strict partial orders on a set formula_3 are closely related. A non-strict partial order formula_4 may be converted to a strict partial order by removing all relationships of the form formula_26 that is, the strict partial order is the set formula_27 where formula_28 is the identity relation on formula_29 and formula_30 denotes set subtraction. Conversely, a strict partial order &lt; on formula_3 may be converted to a non-strict partial order by adjoining all relationships of that form; that is, formula_32 is a non-strict partial order. Thus, if formula_4 is a non-strict partial order, then the corresponding strict partial order &lt; is the irreflexive kernel given by
+formula_34
+Conversely, if &lt; is a strict partial order, then the corresponding non-strict partial order formula_4 is the reflexive closure given by:
+formula_36
+Dual orders.
+The "dual" (or "opposite") formula_37 of a partial order relation formula_38 is defined by letting formula_37 be the converse relation of formula_38, i.e. formula_41 if and only if formula_42. The dual of a non-strict partial order is a non-strict partial order, and the dual of a strict partial order is a strict partial order. The dual of a dual of a relation is the original relation.
+Notation.

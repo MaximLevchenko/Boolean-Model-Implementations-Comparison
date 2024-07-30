@@ -1,0 +1,20 @@
+Title: Sheepshead (card game)
+Sheepshead is an American trick-taking card game derived from Bavaria's national card game, Schafkopf, hence it is sometimes called American Schafkopf. Sheepshead is most commonly played by five players, but variants exist to allow for two to eight players. There are also many other variants to the game rules, and many slang terms used with the game.
+Sheepshead is most commonly played in Wisconsin, where it is sometimes called the "unofficial" state card game. In 1983, it was declared the official card game of the city of Milwaukee. It is also common among German counties in Southern Indiana, which has large German-American populations, and on the Internet. 
+Numerous tournaments are held throughout Wisconsin during the year, with the largest tournament being the "Nationals", held annually in the Wisconsin Dells during a weekend in September, October or November, and mini-tournaments held hourly throughout German Fest in Milwaukee during the last weekend of each July. National 3-Hand Sheepshead Tournament has been held annually in Wisconsin since 1970 in the month of March. 48-hand sessions are held at locations around the state, offering players an opportunity to play in as many of the 100 plus sessions as they wish.
+Etymology.
+Schafkopf literally means "sheep's head" and may refer to the practice going back over a century of recording the score by drawing a stylised head of a sheep with nine lines. However, some sources argue that the term was probably derived and translated incorrectly from Middle High German and referred to playing cards on a barrel head (from "kopf", meaning head, and "Schaff", meaning a barrel).
+Rules.
+Preparation.
+Sheepshead is played with 7-8-9-10-J-Q-K-A in four suits, for a total of 32 cards. This is also known as a Piquet pack, as opposed to the 52 or 54 present in a full French deck (also known as a Poker deck, or a regular deck of playing cards). A sheepshead deck is made by removing all of the jokers, sixes, fives, fours, threes, and twos from a standard deck.
+Card strength.
+Card strength in sheepshead is different from in most other games. It is one of the most difficult things for some beginners to grasp.
+There are 14 cards in the trump suit: all four queens, all four jacks, and all of 
+the diamonds. In order of strength from greatest to least:
+Also, there are 3 "fail" suits, each containing 6 cards (18 total).
+Clubs, spades, and hearts take no precedence over other fail suits, unlike trump, which always take fail. (Notice how both aces and tens outrank kings; arguably the most confusing aspect of card strength). The lead suit must be followed if possible; if not, then any card may be played such as trump (which will take the trick), or a fail card. Playing a fail of a different suit is called "throwing off" and can be a way to clear up another suit. Additionally, throwing off a point card is called "schmearing."
+Card point values.
+Each card is given a separate point value as follows:
+The strongest cards (queens and jacks) are not worth the most points, giving Sheepshead some of its unusual character.
+There are 120 points total in the deck. The goal of the game is to get half of these (60 or 61); in case of a tie, the player who picked up the blinds loses, and that player's opponents win. (There are variant rules for more peculiar situations, such as the Leaster.)
+Scoring.
